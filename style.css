@@ -99,8 +99,3 @@ footer {
     margin-top: 1rem;
     color: var(--very-dark-desaturated-blue);
 }
-
-@media (max-width: 710) {
-    .bg-img__top {
-    }
-}
